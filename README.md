@@ -1,6 +1,9 @@
 # Snake
 The traditional snake game with some customizations. Created using Assembly Language
 
+Project Partner : \
+Samra Fakhar
+
 The following functionalities have been implemented:
 1. A snake that automatically moves left, right, up and down on the screen.
 2. Initial size of snake is 20 characters with head of the snake represented by a different
@@ -63,3 +66,4 @@ The last level is shown below:
 If you complete the last level, then you will have won the game. If you lose all the lives in between, you lose. 
 
 Hope you enjoy playing!
+
